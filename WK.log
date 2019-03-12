@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.11)  11 MAR 2019 21:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.11)  12 MAR 2019 19:05
 entering extended mode
 **./WK.tex
 (WK.tex
@@ -287,137 +287,152 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--96
+Underfull \hbox (badness 10000) in paragraph at lines 70--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--96
+Underfull \hbox (badness 10000) in paragraph at lines 70--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--96
+Underfull \hbox (badness 10000) in paragraph at lines 70--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--96
+Underfull \hbox (badness 10000) in paragraph at lines 79--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--96
-
- []
-
-
-Overfull \hbox (52.55635pt too wide) in paragraph at lines 69--96
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--96
+Underfull \hbox (badness 10000) in paragraph at lines 79--95
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 97--102
+Underfull \hbox (badness 10000) in paragraph at lines 96--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--102
+Underfull \hbox (badness 10000) in paragraph at lines 96--116
 
  []
 
-<path7520-7.png, id=19, 163.60022pt x 197.74979pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--116
+
+ []
+
+
+Overfull \hbox (52.55635pt too wide) in paragraph at lines 96--116
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--116
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+
+ []
+
+<path7520-7.png, id=22, 163.60022pt x 197.74979pt>
 File: path7520-7.png Graphic file (type png)
 <use path7520-7.png>
-Package pdftex.def Info: path7520-7.png  used on input line 123.
+Package pdftex.def Info: path7520-7.png  used on input line 143.
 (pdftex.def)             Requested size: 163.59981pt x 197.7493pt.
-<wykres.png, id=21, 259.09564pt x 273.19086pt>
+<wykres.png, id=24, 259.09564pt x 273.19086pt>
 File: wykres.png Graphic file (type png)
 <use wykres.png>
-Package pdftex.def Info: wykres.png  used on input line 170.
+Package pdftex.def Info: wykres.png  used on input line 190.
 (pdftex.def)             Requested size: 259.095pt x 273.19019pt.
-<wykres_diff.png, id=22, 250.6385pt x 152.99713pt>
+<wykres_diff.png, id=25, 250.6385pt x 152.99713pt>
 File: wykres_diff.png Graphic file (type png)
 <use wykres_diff.png>
-Package pdftex.def Info: wykres_diff.png  used on input line 206.
+Package pdftex.def Info: wykres_diff.png  used on input line 226.
 (pdftex.def)             Requested size: 250.63788pt x 152.99675pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
 
-Overfull \hbox (1.35934pt too wide) in paragraph at lines 104--207
+Overfull \hbox (1.35934pt too wide) in paragraph at lines 124--227
 \OML/cmm/m/it/10.95 I[] \OT1/cmr/m/n/10.95 = [] + [] =
  []
 
 
-Overfull \hbox (1.35934pt too wide) in paragraph at lines 104--207
+Overfull \hbox (1.35934pt too wide) in paragraph at lines 124--227
 \OML/cmm/m/it/10.95 I[] \OT1/cmr/m/n/10.95 = [] \OMS/cmsy/m/n/10.95   [] \OT1/c
 mr/m/n/10.95 =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--207
+Underfull \hbox (badness 10000) in paragraph at lines 124--227
 
  []
 
-[3] [4 <./path7520-7.png>] [5] [6 <./wykres.png>] [7 <./wykres_diff.png>]
+[4] [5 <./path7520-7.png>] [6] [7 <./wykres.png>] [8 <./wykres_diff.png>]
 (WK.aux) ) 
 Here is how much of TeX's memory you used:
  1985 strings out of 492946
- 27083 string characters out of 3126266
- 108004 words of memory out of 3000000
+ 26991 string characters out of 3126266
+ 103004 words of memory out of 3000000
  5867 multiletter control sequences out of 15000+200000
  8572 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -437,9 +452,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Jacek/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Jacek/App
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Use
 rs/Jacek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/wasy/wasy10.pfb>
-Output written on WK.pdf (7 pages, 220357 bytes).
+Output written on WK.pdf (8 pages, 224350 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
+ 182 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
